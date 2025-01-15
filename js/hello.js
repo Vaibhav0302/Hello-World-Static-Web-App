@@ -1,4 +1,4 @@
-
+ 
 HelloWorld('hello_env');
 
 //Creates a "Hello World!" heading and appends it to a div
@@ -7,7 +7,7 @@ function HelloWorld(id) {
   greeting = document.createElement('h3');
   greeting.setAttribute('id', 'hello');
   greeting.style.visibility = "hidden";
-  greeting.innerHTML = "Hello World!";
+  greeting.innerHTML = "Hello Vaibhav!";
 
   element.appendChild(greeting);
 
