@@ -8,12 +8,12 @@ function HelloWorld(id) {
   greeting.setAttribute('id', 'hello');
   greeting.style.visibility = "hidden";
 <<<<<<< HEAD
-  greeting.innerHTML = "Hello Guys;
+  greeting.innerHTML = "Hello Guys!";
 =======
   greeting.innerHTML = "Hello Krishna!";
 >>>>>>> b613d843aca602ab159ee542d07ce057a9be1654
 
-  element.appendChild(grGuys;
+  element.appendChild(greeting);
 
   //sets the new header to appear
   appear('hello');
